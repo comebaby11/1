@@ -1,1 +1,32 @@
-# 1
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FOR YOU BABY</title>
+</head>
+
+<style>
+    body {
+        font-size: 50px;
+    }
+</style>
+
+<body>
+    <h1>HALO WANITA YANG PALING AKU SAYANGGGGGGG</h1> 
+    <marquee>HAPPY GIRLFRIEND DAY'S MY WORLD AKU TIDAK PERNAH MENYANGKA KITA BISA SEPERTI SAAT INI BISA BERSAMA,SEMANGAT TERUS UNTUK MENGEJAR
+        SEMUA YANG KAMU IMPIKAN DAN TERIMA KASIH SUDAH MEMILIH AKU UNTUK MENJADI PASANGAN KAMU.AKU SANGAT MENGHARGAI KAMU LEBIH DARI APA YANG BISA AKU 
+        PERLIHATKAN KEHADIRAN KAMU SANGAT MEWARNAI HIDUP AKU DAN AKU JUGA BERHARAP ITU TIDAK HANYA UNTUK SEMENTARA </marquee>
+    <blockquote>AKU COMA MAU NGUCAPIN INI AJA SIH LEWAT PROGRAM YA HEHEHE </blockquote> 
+<style>
+    body {
+        background-image: url(https://img.freepik.com/free-vector/flat-design-wildflower-heart-background_23-2150534247.jpg?semt=ais_hybrid&w=740&q=80);}
+</style>
+
+<body>
+    <audio autoplay>
+        <source src="ini lag.ogg" type="audio/ogg">
+        <source src="ini lag.mp3" type="audio/mpeg">
+    </audio>
+</body>
